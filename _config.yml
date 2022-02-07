@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 gem "github-pages", group: :jekyll_plugins
 
+logo: https://avatars.githubusercontent.com/u/5484551
 title: The title of your site
 description: A short description of your site's purpose
 
